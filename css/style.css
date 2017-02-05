@@ -150,12 +150,8 @@ border: 0px solid;
 /* Home Style */
 header {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
-border: 0px solid;
+	background-color: #0c3815;
+	border: 0px solid;
     padding: max;
     width: max;
     resize: horizontal;
@@ -202,13 +198,7 @@ header p {
 /* Services Section */
 #services-section {
 	padding: 80px 0 100px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
-	background: rgb(255,255,255)/* Old browsers */
-	background: -moz-linear-gradient(top, rgba(255,255,255) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', endColorstr='#032731', GradientType=0 ); /* IE6-9 */
-	color: #FFFFFF;
+	background-color:#d39e0e;
 }
 #services-section h4 {
 	color: #FFFFFF;
@@ -237,12 +227,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 #works-section {
 	padding: 80px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
-}
+	background-color: #0c3815;
+	}
 #works-section i.fa {
 	font-size: 30px;
 	padding: 5px;
@@ -427,13 +413,7 @@ ol.type li a:hover {
 /* About Section */
 #about-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
-	background: rgb(3,39,49); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', endColorstr='#032731', GradientType=0 ); /* IE6-9 */
-	color: #FFFFFF;
+	background-color:#d39e0e;
 }
 #about-section h4 {
 	color: #FFFFFF;
@@ -452,13 +432,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 /* Team Section */
 #team-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
-}
+	background-color: #0c3815;
+	}
 #team-section hr {
 	background: #a9971c;
 }
@@ -514,12 +489,7 @@ img.img-circle.team-img {
 /* Team Section */
 #participants-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+	background-color:#d39e0e;
 }
 #participants-section hr {
 	background: #a9971c;
@@ -575,14 +545,8 @@ img.img-circle.team-img {
 /* Testimonials Section */
 #testimonials-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
-	background: rgb(3,39,49); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', endColorstr='#032731', GradientType=0 ); /* IE6-9 */
-	color: #FFFFFF;
-}
+	background-color: #0c3815;
+	}
 #testimonial {
 	padding: 30px 0;
 }
@@ -598,12 +562,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', end
 /* Contact Section */
 #contact-section {
 	padding: 80px 0 20px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+	background-color:#d39e0e;
 }
 #contact-section hr {
 	background: #a9971c;
@@ -698,11 +657,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #sponsor-section {
 	padding: 80px 0 20px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c1a618+0,f1c40f+25,f1c40f+75,c1a618+100 */
-	background: rgb(193,166,24); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(193,166,24,1) 0%, rgba(241,196,15,1) 25%, rgba(241,196,15,1) 75%, rgba(193,166,24,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1a618', endColorstr='#c1a618', GradientType=0 ); /* IE6-9 */
+	background-color:#d39e0e;
 }
 #sponsor-section hr {
 	background: #a9971c;
@@ -824,13 +779,7 @@ label {
 /* Access Section */
 #access-section {
 	padding: 80px 0;
-	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#032731+0,032e3a+20,032e3a+100,032731+100 */
-	background: rgb(3,39,49); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(3,39,49,1) 0%, rgba(3,46,58,1) 20%, rgba(3,46,58,1) 100%, rgba(3,39,49,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#032731', endColorstr='#032731', GradientType=0 ); /* IE6-9 */
-	color: #FFFFFF;
+	background-color: #0c3815;
 }
 #access-section h4 {
 	color: #FFFFFF;
