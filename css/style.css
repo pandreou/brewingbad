@@ -1,4 +1,4 @@
-﻿body, html {
+body, html {
 	font-family: 'Lato', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
@@ -94,7 +94,7 @@ hr {
 border: 0px solid;
 
     width: auto;
-    resize: horizontal;
+    /*resize: horizontal;*/
     overflow: auto;
 }
 #menu.navbar-default {
@@ -118,14 +118,14 @@ border: 0px solid;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #f3ca27;
+	color: #3c5f43;
 }
 .on {
 	background-color: #f3ca27 !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #f3ca27 !important;
+	color: #3c5f43 !important;
 	background-color: transparent;
 }
 .navbar-toggle {
@@ -157,6 +157,7 @@ header {
 	padding-top: 100px;
 	padding-right: 0;
 	padding-left: 0;
+	margin-left: -9%;
 	padding-bottom: 100px;
 }
 .btn-default {
@@ -267,7 +268,7 @@ img.img-circle.team-img {
 }
 #participants-section .thumbnail .caption {
 	padding: 9px;
-	color: #f3ca27;
+	color: #fafff9;
 }
 #participants-section i.fa {
 	font-size: 16px;
