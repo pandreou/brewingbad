@@ -1,4 +1,4 @@
-body, html {
+﻿body, html {
 	font-family: 'Lato', sans-serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
@@ -29,7 +29,7 @@ h5 {
 }
 p {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
+	font-size: 16.5px;
 }
 a {
 	color: #fafff9;
@@ -79,10 +79,10 @@ ul, ol {
 	margin-bottom: 25px;
 }
 hr {
-	height: 3px;
+	height: 4px;
 	width: 60px;
 	position: relative;
-	background: #626a29;
+	background: #f3ca27;
 	border: 0;
 	margin-bottom: 30px;
 }
@@ -172,6 +172,14 @@ header {
 #services-section {
 	padding: 80px 0 100px 0;
 	background-color:#f3ca27;
+}
+#services-section hr {
+	height: 4px;
+	width: 60px;
+	position: relative;
+	background: #0c3815;
+	border: 0;
+	margin-bottom: 30px;
 }
 #services-section h4 {
 	color: #fafff9;
@@ -293,6 +301,14 @@ img.img-circle.team-img {
 	padding: 80px 0;
 	background-color: #f3ca27;
 	}
+#testimonials-section hr {
+	height: 4px;
+	width: 60px;
+	position: relative;
+	background: #0c3815;
+	border: 0;
+	margin-bottom: 30px;
+}
 #testimonial {
 	padding: 30px 0;
 }
